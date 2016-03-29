@@ -7,4 +7,7 @@ PHASE I
 
 1. Set up your index.html file with all the required script tags. 
 	//install angularjs, ui-router
+		//use while angular2 is still out <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+		
+
 	//initialize your application with ng-app at the top of your html tag or on your body tag. 
